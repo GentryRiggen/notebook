@@ -1,0 +1,5 @@
+node_modules/request/node_modules
+typings
+.idea
+app/**/*.js*
+dist
